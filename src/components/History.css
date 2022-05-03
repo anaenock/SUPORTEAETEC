@@ -1,0 +1,16 @@
+.content-infos {
+  overflow: auto;
+  max-height: 42vh;
+  max-width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+}
+
+.content-scroll {
+  overflow: auto;
+  max-height: 65vh;
+  max-width: 100vw;
+  overflow-x: hidden;
+  width: 100%;
+}

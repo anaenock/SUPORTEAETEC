@@ -1,0 +1,49 @@
+body {
+  height: 100%;
+}
+
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #003840;
+}
+
+.container {
+  padding: 1vh 1vw;
+}
+
+.card-native {
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 5%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19);
+}
+
+.container-right {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.button-full {
+  background-color: #02a676 !important;
+  color: #ffffff !important;
+  padding: 3em;
+}
+
+.button-full:disabled {
+  background-color: #91ada4 !important;
+  color: #e2e1e1 !important;
+}
+
+.button-outlined {
+  border-color: #02a676 !important;
+  color: #02a676 !important;
+  border-radius: 0.25rem;
+  padding: 3em;
+}
+
+.primary-title {
+  color: #02a676 !important;
+  font-size: 1.5rem;
+}

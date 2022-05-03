@@ -1,0 +1,23 @@
+.main-section {
+  padding-bottom: auto;
+  padding-top: auto;
+}
+
+.section-menu {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.section-title h1 {
+  font-size: 14px;
+}
+
+.section-subtitle h2 {
+  font-size: 12px;
+}
+
+.section-menu * button {
+  margin-bottom: 10vh;
+}
